@@ -4,6 +4,13 @@
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
+/* Block reference number counter */
+.open-block-ref-link {
+  font-weight: bold;
+  color: var(--ls-tag-text-color,#045591);
+}
+
+
 
 /* Slip-Box Components */
 a[data-ref="slip-box 📦/relnotes"] {
